@@ -1,0 +1,23 @@
+/* Başlık */
+h1 {
+    color:brown;
+    text-align: center;
+}
+
+/* Belirteç */
+h2 {
+    font-family: Arial;
+    color:blueviolet;
+    text-align: center;
+}
+
+/* Belirteç 2 */
+h4 {
+    font-family: Arial;
+    color: rgb(163, 163, 15);
+}
+
+/* Açıklama */
+p {
+    text-align: center;
+}
